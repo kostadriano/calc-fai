@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/calc-ifa/static/css/main.36d9b99a.chunk.css",
+    "main.js": "/calc-ifa/static/js/main.e514c249.chunk.js",
+    "main.js.map": "/calc-ifa/static/js/main.e514c249.chunk.js.map",
+    "runtime-main.js": "/calc-ifa/static/js/runtime-main.679ad07d.js",
+    "runtime-main.js.map": "/calc-ifa/static/js/runtime-main.679ad07d.js.map",
+    "static/css/2.8aeb4797.chunk.css": "/calc-ifa/static/css/2.8aeb4797.chunk.css",
+    "static/js/2.754236ee.chunk.js": "/calc-ifa/static/js/2.754236ee.chunk.js",
+    "static/js/2.754236ee.chunk.js.map": "/calc-ifa/static/js/2.754236ee.chunk.js.map",
+    "index.html": "/calc-ifa/index.html",
+    "precache-manifest.09b02ff433fe0e795572c69f7f3f983c.js": "/calc-ifa/precache-manifest.09b02ff433fe0e795572c69f7f3f983c.js",
+    "service-worker.js": "/calc-ifa/service-worker.js",
+    "static/css/2.8aeb4797.chunk.css.map": "/calc-ifa/static/css/2.8aeb4797.chunk.css.map",
+    "static/css/main.36d9b99a.chunk.css.map": "/calc-ifa/static/css/main.36d9b99a.chunk.css.map",
+    "static/js/2.754236ee.chunk.js.LICENSE.txt": "/calc-ifa/static/js/2.754236ee.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/calc-ifa/static/media/roboto-latin-900-normal.bb1e4dc6.woff",
+    "static/media/tabela-amostras-exemplo.csv": "/calc-ifa/static/media/tabela-amostras-exemplo.2f705ad3.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.679ad07d.js",
+    "static/css/2.8aeb4797.chunk.css",
+    "static/js/2.754236ee.chunk.js",
+    "static/css/main.36d9b99a.chunk.css",
+    "static/js/main.e514c249.chunk.js"
+  ]
+}
