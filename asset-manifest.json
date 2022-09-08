@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/calc-fai/static/css/main.3d89bfca.chunk.css",
-    "main.js": "/calc-fai/static/js/main.5e413fbd.chunk.js",
-    "main.js.map": "/calc-fai/static/js/main.5e413fbd.chunk.js.map",
-    "runtime-main.js": "/calc-fai/static/js/runtime-main.f6a8b0f4.js",
-    "runtime-main.js.map": "/calc-fai/static/js/runtime-main.f6a8b0f4.js.map",
-    "static/css/2.1c885f23.chunk.css": "/calc-fai/static/css/2.1c885f23.chunk.css",
-    "static/js/2.ef0a954c.chunk.js": "/calc-fai/static/js/2.ef0a954c.chunk.js",
-    "static/js/2.ef0a954c.chunk.js.map": "/calc-fai/static/js/2.ef0a954c.chunk.js.map",
-    "index.html": "/calc-fai/index.html",
-    "precache-manifest.dfaa2fde399e061ec529e1748833829b.js": "/calc-fai/precache-manifest.dfaa2fde399e061ec529e1748833829b.js",
-    "service-worker.js": "/calc-fai/service-worker.js",
-    "static/css/2.1c885f23.chunk.css.map": "/calc-fai/static/css/2.1c885f23.chunk.css.map",
-    "static/css/main.3d89bfca.chunk.css.map": "/calc-fai/static/css/main.3d89bfca.chunk.css.map",
-    "static/js/2.ef0a954c.chunk.js.LICENSE.txt": "/calc-fai/static/js/2.ef0a954c.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/calc-fai/static/media/roboto-latin-900-normal.bb1e4dc6.woff",
-    "static/media/tabela-amostras-exemplo.csv": "/calc-fai/static/media/tabela-amostras-exemplo.2f705ad3.csv"
+    "main.css": "/calc-iaf/static/css/main.b2d1b369.chunk.css",
+    "main.js": "/calc-iaf/static/js/main.009021dc.chunk.js",
+    "main.js.map": "/calc-iaf/static/js/main.009021dc.chunk.js.map",
+    "runtime-main.js": "/calc-iaf/static/js/runtime-main.e72e5c61.js",
+    "runtime-main.js.map": "/calc-iaf/static/js/runtime-main.e72e5c61.js.map",
+    "static/css/2.96140b94.chunk.css": "/calc-iaf/static/css/2.96140b94.chunk.css",
+    "static/js/2.fbf7058a.chunk.js": "/calc-iaf/static/js/2.fbf7058a.chunk.js",
+    "static/js/2.fbf7058a.chunk.js.map": "/calc-iaf/static/js/2.fbf7058a.chunk.js.map",
+    "index.html": "/calc-iaf/index.html",
+    "precache-manifest.480f69bf3e4bfa644499ded8288e2a75.js": "/calc-iaf/precache-manifest.480f69bf3e4bfa644499ded8288e2a75.js",
+    "service-worker.js": "/calc-iaf/service-worker.js",
+    "static/css/2.96140b94.chunk.css.map": "/calc-iaf/static/css/2.96140b94.chunk.css.map",
+    "static/css/main.b2d1b369.chunk.css.map": "/calc-iaf/static/css/main.b2d1b369.chunk.css.map",
+    "static/js/2.fbf7058a.chunk.js.LICENSE.txt": "/calc-iaf/static/js/2.fbf7058a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/calc-iaf/static/media/roboto-latin-900-normal.bb1e4dc6.woff",
+    "static/media/tabela-amostras-exemplo.csv": "/calc-iaf/static/media/tabela-amostras-exemplo.2f705ad3.csv"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6a8b0f4.js",
-    "static/css/2.1c885f23.chunk.css",
-    "static/js/2.ef0a954c.chunk.js",
-    "static/css/main.3d89bfca.chunk.css",
-    "static/js/main.5e413fbd.chunk.js"
+    "static/js/runtime-main.e72e5c61.js",
+    "static/css/2.96140b94.chunk.css",
+    "static/js/2.fbf7058a.chunk.js",
+    "static/css/main.b2d1b369.chunk.css",
+    "static/js/main.009021dc.chunk.js"
   ]
 }
